@@ -9,6 +9,6 @@
 
 
 
-![image](https://github.com/YiyingYang12/Scene123-One-Image-to-3D-scene-generation/blob/main/Figure/pipeline.pdf)
+![image](https://github.com/YiyingYang12/Scene123-One-Image-to-3D-scene-generation/blob/main/Figure/pipeline.png)
 
  
