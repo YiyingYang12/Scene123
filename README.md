@@ -15,6 +15,7 @@
 ## 🚩 News
 
 - [2024/08/10] Upload paper.
+- [2024/08/26] Upload videos on the project page.
 
 ## ⚡  Quick Start
 
