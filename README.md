@@ -11,6 +11,17 @@
 
 ![image](https://github.com/YiyingYang12/Scene123-One-Image-to-3D-scene-generation/blob/main/Figure/pipeline.png)
 
+
+## 🚩 News
+
+- [2024/08/10] Upload paper.
+
+## ⚡  Quick Start
+
+### Environment Setting Up
+
+
+
  ## 📖 Citation
 
 If you find our code or paper helpful, please consider citing:
