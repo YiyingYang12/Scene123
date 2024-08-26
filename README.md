@@ -11,4 +11,17 @@
 
 ![image](https://github.com/YiyingYang12/Scene123-One-Image-to-3D-scene-generation/blob/main/Figure/pipeline.png)
 
- 
+ ## 📖 Citation
+
+If you find our code or paper helpful, please consider citing:
+
+```bibtex
+@misc{yang2024scene123prompt3dscene,
+      title={Scene123: One Prompt to 3D Scene Generation via Video-Assisted and Consistency-Enhanced MAE}, 
+      author={Yiying Yang and Fukun Yin and Jiayuan Fan and Xin Chen and Wanzhang Li and Gang Yu},
+      year={2024},
+      eprint={2408.05477},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2408.05477}, 
+}
