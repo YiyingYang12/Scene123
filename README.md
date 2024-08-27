@@ -15,7 +15,7 @@
 ## 🚩 News
 
 - [2024/08/10] Upload paper.
-- [2024/08/26] [Upload videos on the project page](https://yiyingyang12.github.io/Scene123.github.io/).
+- [2024/08/26] Upload videos on the [project page](https://yiyingyang12.github.io/Scene123.github.io/).
 
 
 ## ⚡  Quick Start
